@@ -1,19 +1,24 @@
-import { useEffect, useRef, useState } from "react"
+import { useEffect, useRef, useState, useContext } from "react"
 import { useNavigate } from "react-router"
+import { UserContext } from "../contenx/UserContext"
 
 export default function Login() {
   const navigate = useNavigate()
   const [userName, setUserName] = useState("")
-  const SearchRef = useRef('')
+  const SearchRef = useRef<HTMLInputElement>(null)
+  
+  const userContext = useContext(UserContext)
+
   const handelClick = () => {
-    localStorage.setItem("userName", userName),
-      navigate("/Home")
+    if (userName) {
+      userContext?.login(userName); 
+      navigate("/Home");
+    }
   }
 
   useEffect(() => {
-    SearchRef.current.focus()
+    SearchRef.current?.focus()
   }, [])
-
 
   return (
     <div>
@@ -25,8 +30,7 @@ export default function Login() {
         value={userName}
         ref={SearchRef}
       />
-      <button onClick={() => handelClick()}>Sign in</button>
+      <button onClick={handelClick}>Sign in</button>
     </div>
   )
 }
-
