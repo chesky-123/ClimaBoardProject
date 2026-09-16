@@ -1,0 +1,280 @@
+ | 2026-09-10 15:43:12,546 |INFO |test |
+ | 2026-09-10 15:43:12,547 |INFO |read succful |
+ | 2026-09-10 15:44:51,000 |INFO |test |
+ | 2026-09-10 15:44:51,001 |INFO |read succful |
+ | 2026-09-10 19:19:49,640 |INFO |test |
+ | 2026-09-10 19:19:49,642 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:19:49,642 |INFO |get all favorites |
+ | 2026-09-10 19:19:49,645 |INFO |read succful |
+ | 2026-09-10 19:19:49,645 |ERROR |user not exists |
+ | 2026-09-10 19:19:49,645 |ERROR |user not exists |
+ | 2026-09-10 19:19:49,646 |ERROR |user not exists |
+ | 2026-09-10 19:19:49,646 |ERROR |user not exists |
+ | 2026-09-10 19:19:49,646 |ERROR |user not exists |
+ | 2026-09-10 19:19:49,647 |INFO |get all favorites |
+ | 2026-09-10 19:19:49,649 |INFO |read succful |
+ | 2026-09-10 19:20:47,858 |INFO |test |
+ | 2026-09-10 19:20:47,859 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:20:47,859 |INFO |get all favorites |
+ | 2026-09-10 19:20:47,860 |INFO |read succful |
+ | 2026-09-10 19:20:47,861 |ERROR |user not exists |
+ | 2026-09-10 19:20:47,861 |ERROR |user not exists |
+ | 2026-09-10 19:20:47,861 |ERROR |user not exists |
+ | 2026-09-10 19:20:47,862 |INFO |user exists |
+ | 2026-09-10 19:20:47,863 |INFO |favorite created |
+ | 2026-09-10 19:20:47,864 |INFO |get all favorites |
+ | 2026-09-10 19:20:47,901 |INFO |read succful |
+ | 2026-09-10 19:22:33,425 |INFO |test |
+ | 2026-09-10 19:22:33,426 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:22:33,426 |INFO |get all favorites |
+ | 2026-09-10 19:22:33,427 |INFO |read succful |
+ | 2026-09-10 19:23:49,298 |INFO |test |
+ | 2026-09-10 19:23:49,299 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:23:49,300 |INFO |get all favorites |
+ | 2026-09-10 19:23:49,300 |INFO |read succful |
+ | 2026-09-10 19:26:15,156 |INFO |test |
+ | 2026-09-10 19:26:15,157 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:26:15,157 |INFO |get all favorites |
+ | 2026-09-10 19:26:15,158 |INFO |read succful |
+ | 2026-09-10 19:26:15,158 |INFO |get all favorites |
+ | 2026-09-10 19:26:15,158 |INFO |read succful |
+ | 2026-09-10 19:28:19,425 |INFO |test |
+ | 2026-09-10 19:28:19,425 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:28:19,426 |INFO |get all favorites |
+ | 2026-09-10 19:28:19,426 |INFO |read succful |
+ | 2026-09-10 19:28:19,426 |ERROR |user not exists |
+ | 2026-09-10 19:28:19,426 |ERROR |user not exists |
+ | 2026-09-10 19:28:19,426 |INFO |get all favorites |
+ | 2026-09-10 19:28:19,426 |INFO |read succful |
+ | 2026-09-10 19:29:15,202 |INFO |test |
+ | 2026-09-10 19:29:15,203 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:29:15,203 |INFO |get all favorites |
+ | 2026-09-10 19:29:15,203 |INFO |read succful |
+ | 2026-09-10 19:29:15,203 |ERROR |user not exists |
+ | 2026-09-10 19:29:15,203 |INFO |get all favorites |
+ | 2026-09-10 19:29:15,204 |INFO |read succful |
+ | 2026-09-10 19:30:01,505 |INFO |test |
+ | 2026-09-10 19:30:01,506 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:30:01,506 |INFO |get all favorites |
+ | 2026-09-10 19:30:01,507 |INFO |read succful |
+ | 2026-09-10 19:30:01,507 |ERROR |user not exists |
+ | 2026-09-10 19:30:01,507 |INFO |get all favorites |
+ | 2026-09-10 19:30:01,508 |INFO |read succful |
+ | 2026-09-10 19:32:10,553 |INFO |test |
+ | 2026-09-10 19:32:10,555 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:32:10,555 |INFO |get all favorites |
+ | 2026-09-10 19:32:10,556 |INFO |read succful |
+ | 2026-09-10 19:32:10,556 |ERROR |user not exists |
+ | 2026-09-10 19:32:10,556 |INFO |get all favorites |
+ | 2026-09-10 19:32:10,556 |INFO |read succful |
+ | 2026-09-10 19:32:33,356 |INFO |test |
+ | 2026-09-10 19:32:33,357 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:32:33,357 |INFO |get all favorites |
+ | 2026-09-10 19:32:33,358 |INFO |read succful |
+ | 2026-09-10 19:32:33,358 |ERROR |user not exists |
+ | 2026-09-10 19:32:33,358 |INFO |get all favorites |
+ | 2026-09-10 19:32:33,359 |INFO |read succful |
+ | 2026-09-10 19:33:39,988 |INFO |test |
+ | 2026-09-10 19:33:39,990 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:33:39,990 |INFO |get all favorites |
+ | 2026-09-10 19:33:39,990 |INFO |read succful |
+ | 2026-09-10 19:33:39,991 |ERROR |user not exists |
+ | 2026-09-10 19:33:39,991 |INFO |get all favorites |
+ | 2026-09-10 19:33:39,991 |INFO |read succful |
+ | 2026-09-10 19:34:14,309 |INFO |test |
+ | 2026-09-10 19:34:14,311 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:34:14,312 |INFO |get all favorites |
+ | 2026-09-10 19:34:14,312 |INFO |read succful |
+ | 2026-09-10 19:34:14,313 |INFO |user exists |
+ | 2026-09-10 19:34:14,315 |INFO |favorite created |
+ | 2026-09-10 19:34:14,315 |INFO |get all favorites |
+ | 2026-09-10 19:34:14,316 |INFO |read succful |
+ | 2026-09-10 19:34:49,196 |INFO |test |
+ | 2026-09-10 19:34:49,197 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:34:49,198 |INFO |get all favorites |
+ | 2026-09-10 19:34:49,198 |INFO |read succful |
+ | 2026-09-10 19:34:49,199 |INFO |user exists |
+ | 2026-09-10 19:34:49,199 |ERROR |favorite exists |
+ | 2026-09-10 19:34:49,199 |ERROR |user not exists |
+ | 2026-09-10 19:34:49,199 |INFO |get all favorites |
+ | 2026-09-10 19:34:49,200 |INFO |read succful |
+ | 2026-09-10 19:35:25,897 |INFO |test |
+ | 2026-09-10 19:35:25,898 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:35:25,898 |INFO |get all favorites |
+ | 2026-09-10 19:35:25,899 |INFO |read succful |
+ | 2026-09-10 19:35:25,899 |INFO |user exists |
+ | 2026-09-10 19:35:25,899 |ERROR |favorite exists |
+ | 2026-09-10 19:35:25,899 |INFO |get all favorites |
+ | 2026-09-10 19:35:25,900 |INFO |read succful |
+ | 2026-09-10 19:48:39,802 |INFO |test |
+ | 2026-09-10 19:48:39,840 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:48:39,841 |INFO |get all favorites |
+ | 2026-09-10 19:48:39,841 |INFO |read succful |
+ | 2026-09-10 19:48:39,841 |INFO |user exists |
+ | 2026-09-10 19:48:39,842 |ERROR |favorite exists |
+ | 2026-09-10 19:48:39,842 |INFO |get all favorites |
+ | 2026-09-10 19:48:39,842 |INFO |read succful |
+ | 2026-09-10 19:49:11,658 |INFO |test |
+ | 2026-09-10 19:55:50,114 |INFO |user ask to create new favorite |
+ | 2026-09-10 19:55:50,116 |INFO |get all favorites |
+ | 2026-09-10 19:55:50,121 |INFO |read succful |
+ | 2026-09-10 19:55:50,125 |INFO |user exists |
+ | 2026-09-10 19:55:50,138 |INFO |favorite created |
+ | 2026-09-14 14:31:48,488 |INFO |test |
+ | 2026-09-14 16:36:12,055 |INFO |user ask to create new favorite |
+ | 2026-09-14 16:36:12,063 |INFO |get all favorites |
+ | 2026-09-14 16:36:12,069 |INFO |read succful |
+ | 2026-09-14 16:36:12,070 |INFO |user exists |
+ | 2026-09-14 16:36:12,084 |INFO |favorite created |
+ | 2026-09-14 16:36:42,369 |INFO |user ask to create new favorite |
+ | 2026-09-14 16:36:42,370 |INFO |get all favorites |
+ | 2026-09-14 16:36:42,372 |INFO |read succful |
+ | 2026-09-14 16:36:42,374 |ERROR |user not exists |
+ | 2026-09-14 16:39:08,679 |INFO |test |
+ | 2026-09-14 16:39:12,886 |INFO |test |
+ | 2026-09-14 16:39:29,694 |INFO |test |
+ | 2026-09-14 16:39:33,574 |INFO |test |
+ | 2026-09-14 16:39:37,269 |INFO |test |
+ | 2026-09-14 16:39:41,713 |INFO |test |
+ | 2026-09-14 16:40:14,303 |INFO |user ask to create new favorite |
+ | 2026-09-14 16:40:14,304 |INFO |get all favorites |
+ | 2026-09-14 16:40:14,305 |INFO |read succful |
+ | 2026-09-14 16:40:14,306 |INFO |user not exists, creating new user |
+ | 2026-09-14 16:43:19,257 |INFO |test |
+ | 2026-09-14 16:43:20,956 |INFO |test |
+ | 2026-09-14 16:43:25,253 |INFO |test |
+ | 2026-09-14 16:43:55,813 |INFO |test |
+ | 2026-09-14 16:43:58,336 |INFO |test |
+ | 2026-09-14 16:44:01,608 |INFO |test |
+ | 2026-09-14 16:44:07,991 |INFO |test |
+ | 2026-09-14 16:44:12,335 |INFO |test |
+ | 2026-09-14 16:44:15,296 |INFO |test |
+ | 2026-09-14 16:45:53,344 |INFO |get all favorites |
+ | 2026-09-14 16:45:53,344 |INFO |read succful |
+ | 2026-09-14 16:45:59,982 |INFO |get all favorites |
+ | 2026-09-14 16:45:59,984 |INFO |read succful |
+ | 2026-09-14 16:46:11,304 |INFO |get all favorites |
+ | 2026-09-14 16:46:11,305 |INFO |read succful |
+ | 2026-09-14 16:46:20,983 |INFO |get all favorites |
+ | 2026-09-14 16:46:20,984 |INFO |read succful |
+ | 2026-09-14 16:46:33,288 |INFO |get all favorites |
+ | 2026-09-14 16:46:33,289 |INFO |read succful |
+ | 2026-09-14 16:46:36,985 |INFO |get all favorites |
+ | 2026-09-14 16:46:36,986 |INFO |read succful |
+ | 2026-09-14 16:46:48,981 |INFO |get all favorites |
+ | 2026-09-14 16:46:48,982 |INFO |read succful |
+ | 2026-09-14 16:46:52,980 |INFO |get all favorites |
+ | 2026-09-14 16:46:52,982 |INFO |read succful |
+ | 2026-09-14 16:46:55,974 |INFO |get all favorites |
+ | 2026-09-14 16:46:55,975 |INFO |read succful |
+ | 2026-09-14 16:47:00,972 |INFO |get all favorites |
+ | 2026-09-14 16:47:00,973 |INFO |read succful |
+ | 2026-09-14 16:47:11,283 |INFO |get all favorites |
+ | 2026-09-14 16:47:11,285 |INFO |read succful |
+ | 2026-09-14 16:47:56,528 |INFO |user ask to create new favorite |
+ | 2026-09-14 16:47:56,529 |INFO |get all favorites |
+ | 2026-09-14 16:47:56,530 |INFO |read succful |
+ | 2026-09-14 16:47:56,530 |INFO |user exists |
+ | 2026-09-14 16:47:56,532 |INFO |favorite created |
+ | 2026-09-14 16:47:59,306 |INFO |get all favorites |
+ | 2026-09-14 16:47:59,308 |INFO |read succful |
+ | 2026-09-14 16:48:18,752 |INFO |get all favorites |
+ | 2026-09-14 16:48:18,753 |INFO |read succful |
+ | 2026-09-14 16:53:30,293 |INFO |get all favorites |
+ | 2026-09-14 16:53:30,294 |INFO |read succful |
+ | 2026-09-14 16:54:15,061 |INFO |get all favorites |
+ | 2026-09-14 16:54:15,063 |INFO |read succful |
+ | 2026-09-14 20:29:10,168 |INFO |get all favorites |
+ | 2026-09-14 20:29:10,170 |INFO |read succful |
+ | 2026-09-14 20:52:16,318 |INFO |get all favorites |
+ | 2026-09-14 20:52:16,329 |INFO |read succful |
+ | 2026-09-15 08:19:54,540 |INFO |get all favorites |
+ | 2026-09-15 08:19:54,550 |INFO |read succful |
+ | 2026-09-15 08:21:43,446 |INFO |get all favorites |
+ | 2026-09-15 08:21:43,447 |INFO |read succful |
+ | 2026-09-15 08:22:09,032 |INFO |get all favorites |
+ | 2026-09-15 08:22:09,033 |INFO |read succful |
+ | 2026-09-15 08:23:11,557 |INFO |get all favorites |
+ | 2026-09-15 08:23:11,559 |INFO |read succful |
+ | 2026-09-15 08:29:27,225 |INFO |user ask to create new favorite |
+ | 2026-09-15 08:29:27,226 |INFO |get all favorites |
+ | 2026-09-15 08:29:27,228 |INFO |read succful |
+ | 2026-09-15 08:29:27,229 |INFO |user not exists, creating new user |
+ | 2026-09-15 08:29:28,920 |INFO |get all favorites |
+ | 2026-09-15 08:29:28,921 |INFO |read succful |
+ | 2026-09-15 08:31:06,435 |INFO |test |
+ | 2026-09-15 08:31:10,347 |INFO |test |
+ | 2026-09-15 08:31:18,170 |INFO |test |
+ | 2026-09-15 08:31:29,801 |INFO |test |
+ | 2026-09-15 08:31:38,463 |INFO |test |
+ | 2026-09-15 08:32:30,747 |INFO |test |
+ | 2026-09-15 08:32:31,909 |INFO |test |
+ | 2026-09-15 08:33:04,956 |INFO |test |
+ | 2026-09-15 08:34:32,111 |INFO |get all favorites |
+ | 2026-09-15 08:34:32,112 |INFO |read succful |
+ | 2026-09-15 08:35:04,207 |INFO |get all favorites |
+ | 2026-09-15 08:35:04,208 |INFO |read succful |
+ | 2026-09-15 08:35:16,746 |INFO |user ask to create new favorite |
+ | 2026-09-15 08:35:16,746 |INFO |get all favorites |
+ | 2026-09-15 08:35:16,747 |INFO |read succful |
+ | 2026-09-15 08:35:16,748 |INFO |user exists |
+ | 2026-09-15 08:35:16,749 |INFO |favorite created |
+ | 2026-09-15 08:35:20,308 |INFO |get all favorites |
+ | 2026-09-15 08:35:20,309 |INFO |read succful |
+ | 2026-09-15 08:35:29,688 |INFO |get all favorites |
+ | 2026-09-15 08:35:29,689 |INFO |read succful |
+ | 2026-09-15 08:35:37,983 |INFO |get all favorites |
+ | 2026-09-15 08:35:37,983 |INFO |read succful |
+ | 2026-09-15 08:35:41,687 |INFO |get all favorites |
+ | 2026-09-15 08:35:41,688 |INFO |read succful |
+ | 2026-09-15 08:35:54,937 |INFO |test |
+ | 2026-09-15 08:35:57,138 |INFO |test |
+ | 2026-09-15 08:36:01,005 |INFO |test |
+ | 2026-09-15 08:36:04,502 |INFO |test |
+ | 2026-09-15 08:36:09,037 |INFO |test |
+ | 2026-09-15 08:36:11,459 |INFO |test |
+ | 2026-09-15 08:36:24,998 |INFO |test |
+ | 2026-09-15 08:36:26,623 |INFO |test |
+ | 2026-09-15 08:36:36,161 |INFO |test |
+ | 2026-09-15 08:36:37,340 |INFO |test |
+ | 2026-09-15 08:36:44,367 |INFO |test |
+ | 2026-09-15 08:36:46,297 |INFO |test |
+ | 2026-09-15 08:38:50,453 |INFO |user ask to create new favorite |
+ | 2026-09-15 08:38:50,454 |INFO |get all favorites |
+ | 2026-09-15 08:38:50,455 |INFO |read succful |
+ | 2026-09-15 08:38:50,455 |INFO |user exists |
+ | 2026-09-15 08:38:50,456 |INFO |favorite created |
+ | 2026-09-15 08:38:52,502 |INFO |get all favorites |
+ | 2026-09-15 08:38:52,503 |INFO |read succful |
+ | 2026-09-15 08:41:31,194 |INFO |test |
+ | 2026-09-15 08:41:32,457 |INFO |test |
+ | 2026-09-15 08:41:39,610 |INFO |test |
+ | 2026-09-15 08:42:01,953 |INFO |user ask to create new favorite |
+ | 2026-09-15 08:42:01,953 |INFO |get all favorites |
+ | 2026-09-15 08:42:01,954 |INFO |read succful |
+ | 2026-09-15 08:42:01,954 |INFO |user exists |
+ | 2026-09-15 08:42:01,955 |ERROR |favorite exists |
+ | 2026-09-15 08:42:14,710 |INFO |user ask to create new favorite |
+ | 2026-09-15 08:42:14,711 |INFO |get all favorites |
+ | 2026-09-15 08:42:14,712 |INFO |read succful |
+ | 2026-09-15 08:42:14,712 |INFO |user exists |
+ | 2026-09-15 08:42:14,714 |INFO |favorite created |
+ | 2026-09-15 08:42:16,346 |INFO |get all favorites |
+ | 2026-09-15 08:42:16,347 |INFO |read succful |
+ | 2026-09-15 08:42:35,793 |INFO |test |
+ | 2026-09-15 08:47:22,308 |INFO |test |
+ | 2026-09-15 08:47:29,795 |INFO |get all favorites |
+ | 2026-09-15 08:47:29,797 |INFO |read succful |
+ | 2026-09-16 09:43:57,703 |INFO |test |
+ | 2026-09-16 09:44:49,036 |INFO |get all favorites |
+ | 2026-09-16 09:44:49,040 |INFO |read succful |
+ | 2026-09-16 09:45:17,091 |INFO |user ask to create new favorite |
+ | 2026-09-16 09:45:17,092 |INFO |get all favorites |
+ | 2026-09-16 09:45:17,094 |INFO |read succful |
+ | 2026-09-16 09:45:17,094 |INFO |user not exists, creating new user |
+ | 2026-09-16 09:45:19,197 |INFO |get all favorites |
+ | 2026-09-16 09:45:19,198 |INFO |read succful |
+ | 2026-09-16 09:45:46,878 |INFO |get all favorites |
+ | 2026-09-16 09:45:46,879 |INFO |read succful |
+
+ 
